@@ -1,0 +1,31 @@
+body
+{
+	text-align: center;
+	background: black;
+	background-color: black;
+	color: #A2A2A2;
+}
+table, tr{
+	margin: auto;
+	border: 1px solid white;
+	border-collapse: collapse;
+}
+td, tr{
+	padding: 5px;
+	margin: 5px;
+}
+th, tr
+{
+	font-size: 1.25em;
+}
+.higher
+{
+	background: red;
+	background-color: red;
+	color: black;
+}
+div 
+{
+	padding: 10px;
+	margin: 10px;
+}
